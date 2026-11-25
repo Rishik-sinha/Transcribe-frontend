@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/:path*",
+            "destination": "https://transcribe-backend-0y3o.onrender.com/api/:path*"
+        }
+    ]
+}
